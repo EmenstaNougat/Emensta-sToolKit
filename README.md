@@ -5,9 +5,9 @@ Ways to use it:
 - download the .bat and run it
 
 - clone repository > open CMD:
-      git clone https://github.com/EmenstaNougat/Emensta-sToolKit.git
-      cd Emensta-sToolKit
-      Emensta'sToolKitV2.bat
+      git clone https://github.com/EmenstaNougat/Emensta-sToolKit.git                                                             
+      cd Emensta-sToolKit                                     
+      Emensta'sToolKitV2.bat                               
 
 PASSWORD: 
 
