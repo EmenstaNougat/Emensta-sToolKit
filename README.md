@@ -7,7 +7,7 @@ Ways to use it:
 - clone repository > open CMD:                                                                 
       git clone https://github.com/EmenstaNougat/Emensta-sToolKit.git                                                             
       cd Emensta-sToolKit                                     
-      Emensta'sToolKitV2.bat                               
+      Emensta'sToolKitV2.1.bat                               
 
 PASSWORD: 
 Enter the password to access Emensta'sToolKit: emensta
