@@ -22,3 +22,5 @@ Menu:
 
 ScanMenu (option 6):
 ![menu2](https://github.com/EmenstaNougat/Emensta-sToolKit-.bat-.exe-/assets/114187939/0c911776-6e0e-481f-ad82-a5563991aa98)
+
+>download at your own risk!
