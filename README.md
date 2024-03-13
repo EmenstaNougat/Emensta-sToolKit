@@ -14,7 +14,7 @@ Enter the password to access Emensta'sToolKit: emensta
 
 Emensta'sToolKit preview:
 
-Login: (emensta)
+Login: emensta
 ![login](https://github.com/EmenstaNougat/Emensta-sToolKit-.bat-.exe-/assets/114187939/20c2e4d8-57c0-4891-ba90-e90b206a2dc9)
 
 Menu:
