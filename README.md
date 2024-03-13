@@ -2,12 +2,7 @@
 Emensta'sToolKit is a multifunctinal Kit with tools for checking, and doing several things. The tool will be updated as soon as something new appears!
 
 Ways to use it:
-- download the .bat and run it
-
-- clone repository > open CMD:                                                                 
-      git clone https://github.com/EmenstaNougat/Emensta-sToolKit.git                                                             
-      cd Emensta-sToolKit                                     
-      Emensta'sToolKitV2.1.bat                               
+- download the .msi and run it (Windows only! -based on a batch)                            
 
 PASSWORD: 
 Enter the password to access Emensta'sToolKit: emensta
