@@ -1,4 +1,4 @@
-# Emensta-sToolKit
+# Emensta'sToolKit
 Emensta'sToolKit is a multifunctinal Kit with tools for checking, and doing several things. The tool will be updated as soon as something new appears!
 
 Ways to use it:
@@ -24,4 +24,4 @@ Emensta'sToolKit preview:
 <img src="https://emenstastoolkit.pages.dev/tool3.png" width" width="100%" height="100%">
 </p>
 
->download at your own risk!
+>download at your own risk! Educational purposes only!
