@@ -9,19 +9,19 @@ Enter the password to access Emensta'sToolKit: emensta
 
 Emensta'sToolKit preview:
 
-# Login: emensta
+### Login: emensta
 <p align="center">
 <img src="https://emenstastoolkit.pages.dev/tool1.png" width" width="100%" height="100%">
 </p>
 
-# Menu:
+### Menu:
 <p align="center">
-<img src="https://emenstastoolkit.pages.dev/tool2.png" width" width="80%" height="80%">
+<img src="https://emenstastoolkit.pages.dev/tool2.png" width" width="100%" height="100%">
 </p>
 
-# ScanMenu (option 6):
+### ScanMenu (option 6):
 <p align="center">
-<img src="https://emenstastoolkit.pages.dev/tool3.png" width" width="80%" height="80%">
+<img src="https://emenstastoolkit.pages.dev/tool3.png" width" width="100%" height="100%">
 </p>
 
 >download at your own risk!
