@@ -11,7 +11,7 @@ Emensta'sToolKit preview:
 
 # Login: emensta
 <p align="center">
-<img src="https://emenstastoolkit.pages.dev/tool1.png" width" width="80%" height="80%">
+<img src="https://emenstastoolkit.pages.dev/tool1.png" width" width="100%" height="100%">
 </p>
 
 # Menu:
